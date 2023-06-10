@@ -5,54 +5,66 @@
     margin: auto;
     border-radius: 10px;
   }
+
   body {
     background-color: black;
   }
+
   main {
     background-color: black;
   }
+
   #title {
     text-align: center;
     color: white;
     font-size: 60px;
   }
+
   #img-caption {
     text-align: center;
     color: white;
     margin: 10px 0px 50px 0px;
     font-size: 40px;
   }
+
   #tribute-info {
     color: white;
     font-size: 15px;
   }
+
   #tribute-link{
     text-align: center;
     color: white;
     font-size: 20px;
   }
+
   #p1 {
     text-align: center;
     font-size: 15px;
     padding: 0px 0px 15px 0px;
   }
+
   #p2 {
     text-align: center;
     color: white;
     font-size: 25px;
     padding: 0px 0px 5px 0px;
   }
+
   #timeline {
     background-color: black;
     color: white;
     text-align: center;
   }
+
   header {
     font-size: 30px;
   }
+
   ul {
     list-style: none;
   }
+  
   li {
     font-size: 15px;
     padding: 15px 30px 15px 0px;
